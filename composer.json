@@ -1,0 +1,21 @@
+{
+    "name": "heropoo/learning-php-ml",
+    "description": "Learning php-ml",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "heropoo",
+            "email": "aiyouyou1000@163.com"
+        }
+    ],
+    "require": {
+        "php": "^7.0",
+        "php-ai/php-ml": "*"
+    },
+    "autoload": {
+        "classmap":[
+            "examples/"
+        ]
+    }
+}
