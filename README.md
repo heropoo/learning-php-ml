@@ -15,7 +15,7 @@
 赛灵开源技术研发社区维护的中文文档: [http://doc.celerstar.com/website/soft/php-ml/](http://doc.celerstar.com/website/soft/php-ml/)
 
 ## 安装
-PHP-ML 要求 `PHP >= 7.0`, 不过`dev-master`版本已经要求 `PHP >= 7.1` 了
+PHP-ML 要求 `PHP >= 7.1`
 
 目前这个库正在开发中，你可以通过`composer`安装:
 

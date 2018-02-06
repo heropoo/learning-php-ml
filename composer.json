@@ -10,12 +10,18 @@
         }
     ],
     "require": {
-        "php": "^7.0",
+        "php": "^7.1",
         "php-ai/php-ml": "*"
     },
     "autoload": {
         "classmap":[
             "examples/"
         ]
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
     }
 }
