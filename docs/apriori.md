@@ -41,4 +41,5 @@
 
 [http://blog.csdn.net/php_ajaxx/article/details/78880952](http://blog.csdn.net/php_ajaxx/article/details/78880952)
 [https://www.cnblogs.com/qwertWZ/p/4510857.html](https://www.cnblogs.com/qwertWZ/p/4510857.html)
+[https://github.com/Neroxiezi/PHP-ML-study/blob/master/doc/Apriori.md](https://github.com/Neroxiezi/PHP-ML-study/blob/master/doc/Apriori.md)
 
