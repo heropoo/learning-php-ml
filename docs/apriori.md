@@ -1,9 +1,5 @@
 # 关联性规则学习 - Apriori算法
 
-
-
-// todo 待会写个php的实现
-
 从大规模数据集中寻找物品间的隐含关系被称作**关联分析(association analysis)** 或者 **关联规则学习(association rule learning)**
 
 ### 关联分析
