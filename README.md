@@ -82,7 +82,7 @@ composer require php-ai/php-ml
 * 数学-Math
     * [Distance](http://php-ml.readthedocs.io/en/latest/math/distance/)
     * [Matrix](http://php-ml.readthedocs.io/en/latest/math/matrix/)
-    * [Set](http://php-ml.readthedocs.io/en/latest/math/set/)
+    * [集合-Set](./docs/math-set.md)
     * [Statistic](http://php-ml.readthedocs.io/en/latest/math/statistic/)
 	* Linear Algebra
 
